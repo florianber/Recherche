@@ -1,0 +1,8 @@
+appdirs
+torch
+numpy
+datasets
+transformers
+spacy
+gensim
+matplotlib
